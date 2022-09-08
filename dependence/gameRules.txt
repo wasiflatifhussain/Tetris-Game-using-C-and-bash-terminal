@@ -1,0 +1,12 @@
+Welcome to Tetris.
+The rules of the game are simple. Try to align the blocks
+to form a perfect horizontal line. If a horizontal line
+forms, that line disappears. The game continues.
+=> Use 'W/w' or 'S/s button to change the orientation of the blocks.
+=> Using 'A/a' and 'D/d' to move the block right and left.
+=> Use 'E/e' to end the game.
+
+Defeat: The game ends if a vertical line of block pieces
+forms which touches the upper edge of the board!
+
+Good Luck! Have Fun! Enjoy!

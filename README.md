@@ -1,14 +1,4 @@
-# ENGG1340
-## Group information
-- Group number: 74
-- Member 1.
-  * Wong Tsz Hin
-  * UID- 3035927489
-  * Github account: Hugo1205
-- Member 2.
-  * HUSSAIN Wasif Latif 
-  * UID- 3035834577
-  * Github account: wasiflatifhussain
+
             
 
 ## Description and Game Information:
